@@ -1,0 +1,18 @@
+{
+  "name": "desafio",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Aplicación para gestionar estudiantes utilizando Node.js y PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Node.js", "PostgreSQL", "pg", "dotenv"],
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "pg": "^8.12.0"
+  }
+}
